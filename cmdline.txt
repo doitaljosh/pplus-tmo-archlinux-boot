@@ -1,0 +1,1 @@
+console=tty0 root=/dev/mmcblk1p1 rootwait rw rootfstype=ext4 fbcon:font=VGA8x8 user_debug=31 ehci-hcd.park=3 lpm_levels.sleep_disabled=1 msm_rtb.filter=0x37
